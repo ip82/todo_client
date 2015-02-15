@@ -50,12 +50,6 @@ angular.module('todoClient')
         'url': 'http://getbootstrap.com/',
         'description': 'Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.',
         'logo': 'bootstrap.png'
-      },
-      {
-        'title': 'Sass (Ruby)',
-        'url': 'http://sass-lang.com/',
-        'description': 'Original Syntactically Awesome StyleSheets implemented in Ruby',
-        'logo': 'ruby-sass.png'
       }
     ];
     angular.forEach($scope.awesomeThings, function(awesomeThing) {

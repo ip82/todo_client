@@ -40,10 +40,10 @@
         "module": null
       },
       "cssPreprocessor": {
-        "key": "ruby-sass",
-        "extension": "scss",
-        "module": "gulp-ruby-sass",
-        "version": "~0.7.1"
+        "key": "none",
+        "extension": "css",
+        "module": null,
+        "version": null
       },
       "jsPreprocessor": {
         "key": "none",

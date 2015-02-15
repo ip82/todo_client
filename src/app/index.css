@@ -7,10 +7,8 @@
 
 .thumbnail {
   height: 200px;
-
-  img.pull-right {
-    width: 50px;
-  }
 }
-// injector
-// endinjector
+
+.thumbnail img.pull-right {
+  width: 50px;
+}
