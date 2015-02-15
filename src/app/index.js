@@ -7,6 +7,10 @@ angular.module('todoClient', ['ngAnimate', 'ngResource', 'ngRoute'])
         templateUrl: 'app/main/main.html',
         controller: 'MainCtrl'
       })
+      .when('/about', {
+        templateUrl: 'app/main/main.html',
+        controller: 'MainCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

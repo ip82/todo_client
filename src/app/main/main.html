@@ -1,6 +1,7 @@
-<div class="container">
+<div class="container" ng-controller="MainCtrl">
 
-  <div ng-include="'components/navbar/navbar.html'"></div>
+  <div ng-include="'components/navbar/navbar.html'" ></div>
+   <div ng-include="'components/about/about.html'" ng-show="isActive('/about')"></div>
 
   <div class="footer">
   </div>
