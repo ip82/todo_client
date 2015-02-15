@@ -1,6 +1,9 @@
 == TODO CLIENT
 
-* install NodeJS for your OS
-* npm install -g yo bower grunt-cli gulp
-* bower install
+* install NodeJS
+* install Yeoman, Bower and Gulp
+* npm install
+* bower update
 * gulp serve
+
+helpfull article: http://www.justinmccandless.com/blog/Getting+a+Yeoman+App+Working+on+a+New+Machine+after+Cloning
