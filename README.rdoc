@@ -1,0 +1,6 @@
+== TODO CLIENT
+
+* install NodeJS for your OS
+* npm install -g yo bower grunt-cli gulp
+* bower install
+* gulp serve
